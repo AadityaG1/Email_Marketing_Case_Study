@@ -1,0 +1,1 @@
+The main goal of this analysis is to study customer interactions with an email marketing campaign to understand what factors affect open rates and click-through rates (CTR), and to build a model that can help optimize future campaigns.
